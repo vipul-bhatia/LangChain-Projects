@@ -1,0 +1,74 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "1+1",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "2",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "add4",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "I'm sorry, can you please provide me with the numbers you would like me to add?",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "add 4 more",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "4 + 4 = 8",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "add 5 more to 8",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "8 + 5 = 13",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false
+        }
+    }
+]
